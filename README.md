@@ -1,4 +1,4 @@
 # neworoject
 <?php
-phpinfo();
-
+phpinfo(); // added
+Hello There hell Here
