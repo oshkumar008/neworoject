@@ -1,2 +1,4 @@
 # neworoject
-Test
+<?php
+phpinfo();
+
