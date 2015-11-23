@@ -1,3 +1,4 @@
 # neworoject
-<?php
-Hello There hell Here
+<?php 
+echo "Hello There hell Here.";
+?>
